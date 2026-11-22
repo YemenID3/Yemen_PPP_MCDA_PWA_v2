@@ -1,0 +1,27 @@
+{
+  "name": "الإطار الرقمي لحوكمة شراكات توليد الكهرباء باليمن (MCDA-WSM)",
+  "short_name": "حوكمة الكهرباء PPP",
+  "description": "تطبيق متعدد المعايير لدعم قرارات المفاضلة الأولية بين النماذج التعاقدية (BOOT, BOO, EPC+O&M) في مشروعات توليد الكهرباء باليمن — جامعة ذمار / المؤتمر العلمي الدولي الأول 2027 / Yemen ID",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "dir": "rtl",
+  "lang": "ar",
+  "background_color": "#0b2239",
+  "theme_color": "#0b2239",
+  "icons": [
+    {
+      "src": "./assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
